@@ -1,0 +1,7 @@
+# General Files
+.DS_STORE
+.*.*.swp
+.env
+
+# Folders
+node_modules
